@@ -74,6 +74,6 @@ This repository provides the script to summarize text using OpenAI's GPT-4 model
     ```bash
     python summarize.py
     ```
-
+### Replace the model name with GPT3.5 to use  GPT3.5 model.
 
 
