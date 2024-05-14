@@ -1,4 +1,4 @@
-# GPT-4 Text Summarizer
+# GPT-4 / GPT 3.5
 
 This repository provides the script to summarize text using OpenAI's GPT-4 model via the ChatCompletion API.
 
