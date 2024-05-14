@@ -54,7 +54,7 @@ This repository provides the script to summarize text using OpenAI's GPT-4 model
         ]
 
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=messages,
         )
 
