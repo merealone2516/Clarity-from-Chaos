@@ -1,0 +1,50 @@
+2. What is your gender?,"3. How many years of experience do you have in working on software development projects, either in a company or during your PhD studies?",4. How often do you encounter issue threads that are difficult to understand due to their complexity or length?,"5. How confident are you in your ability to understand issue threads? (Scale: 1 - Not Confident, 5 - Very Confident)",6. How much time do you typically spend trying to understand an issue thread before giving up or seeking help?,7. Do you feel that this time spent on issue threads affects your productivity in other areas of software development?,8. Have you ever missed important information or misunderstood an issue because of the difficulty in understanding the associated thread?,9. Have you experienced project delays or missed deadlines due to the time taken in comprehending issue threads?,10. How do you currently handle issue threads that are difficult to understand? (Select all that apply),"11. In your opinion, how important is efficient management of issue threads to the overall success of a software development project?","12. How much do you think using an AI-powered summarization tool would improve your ability to understand issue threads? (Scale: 1 - Not at All, 5 - Significantly)","13. How likely would you be to recommend an AI-powered summarization tool to a colleague or friend? (Scale: 1 - Not Likely, 5 - Extremely Likely)",14. How much time do you think an AI-powered summarization tool would save you in your daily work? (Estimate in hours per week)
+Female,2-5 years,Weekly,4,30-60 minutes,Yes,Yes,"Yes, occasionally",Use a search engine to find relevant information,Extremely important,1,5,5-10 hours
+Female,2-5 years,Monthly,3,15-30 minutes,Yes,Yes,Rarely; Never,Skim the thread to get a general idea;Ask a colleague for help;Use a search engine to find relevant information,Very important,4,4,2-5 hours
+Male,10-20 years,Weekly,5,Less than 5 minutes,No,Yes,"Yes, occasionally",Use a search engine to find relevant information,Moderately important,5,5,0-1 hour
+Male,5-10 years,Monthly,4,15-30 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully;Skim the thread to get a general idea;Use a search engine to find relevant information,Extremely important,5,5,5-10 hours
+Female,0-2 years,Weekly,3,30-60 minutes,Yes,Yes,"Yes, occasionally",Skim the thread to get a general idea;Ask a colleague for help;Use a search engine to find relevant information,Very important,4,4,2-5 hours
+Male,0-2 years,Weekly,3,30-60 minutes,No,Yes,"Yes, occasionally",Skim the thread to get a general idea;Ask a colleague for help,Slightly important,3,4,1-2 hours
+Male,5-10 years,Weekly,4,30-60 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully,Very important,2,2,1-2 hours
+Male,5-10 years,Weekly,5,15-30 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully;Ask a colleague for help;Asking gpt to get the summary 🤪🤪,Very important,5,5,1-2 hours
+Male,2-5 years,Weekly,3,5-15 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully;Ask a colleague for help;Use a search engine to find relevant information,Extremely important,4,4,1-2 hours
+Female,10-20 years,Weekly,3,30-60 minutes,Yes,Yes,Rarely; Never,Try to read the entire thread carefully;Use a search engine to find relevant information,Moderately important,3,3,2-5 hours
+Female,5-10 years,Daily,3,5-15 minutes,Yes,Yes,"Yes, occasionally",Skim the thread to get a general idea;Ask a colleague for help,Very important,3,3,2-5 hours
+Male,10-20 years,Monthly,4,5-15 minutes,No,Yes,"Yes, occasionally",Try to read the entire thread carefully;Ask a colleague for help,Extremely important,3,3,1-2 hours
+Male,5-10 years,Weekly,4,30-60 minutes,No,Yes,"Yes, occasionally",Try to read the entire thread carefully;Skim the thread to get a general idea,Very important,3,3,0-1 hour
+Male,10-20 years,Monthly,4,15-30 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully;Use a search engine to find relevant information,Slightly important,3,3,2-5 hours
+Female,0-2 years,Monthly,3,More than 60 minutes,Yes,Yes,"Yes, occasionally",Ask a colleague for help;Use a search engine to find relevant information,Moderately important,2,2,1-2 hours
+Male,0-2 years,Weekly,4,30-60 minutes,Yes,Yes,"Yes, occasionally",Try to read the entire thread carefully;Ask a colleague for help;Use a search engine to find relevant information,Moderately important,4,4,1-2 hours
+Male,2-5 years,Weekly,4,15-30 minutes,No,Yes,"Yes, occasionally",Try to read the entire thread carefully;Skim the thread to get a general idea;Ask a colleague for help;Use a search engine to find relevant information,Very important,4,5,1-2 hours
+Female,0-2 years,Rarely,3,30-60 minutes,Yes,No,Rarely; Never,Try to read the entire thread carefully;Ask a colleague for help;Use a search engine to find relevant information,Very important,4,4,2-5 hours
+Female,2-5 years,Rarely,3,15-30 minutes,No,Yes,Rarely; Never,Ask a colleague for help,Extremely important,3,3,0-1 hour
+Male,10-20 years,Daily,5,5-15 minutes,No,No,Rarely,"Try to read the entire thread carefully, Ask a colleague for help, Skim the thread to get a general idea",Extremely important,3,5,More than 10 hours
+Female,2-5 years,Never,4,Less than 5 minutes,No,No,"Yes, occasionally",Other,Moderately important,4,2,0-1 hour
+Female,More than 20 years,Daily,2,15-30 minutes,Yes,No,"Yes, occasionally",Skim the thread to get a general idea,Moderately important,2,5,1-2 hours
+Male,5-10 years,Monthly,2,5-15 minutes,No,No,Rarely,"Ask a colleague for help, Skim the thread to get a general idea, Use a search engine to find relevant information",Slightly important,2,1,5-10 hours
+Male,0-2 years,Daily,5,5-15 minutes,Yes,No,Rarely,Ask a colleague for help,Extremely important,1,1,1-2 hours
+Male,0-2 years,Monthly,3,15-30 minutes,Yes,No,"Yes, often","Ask a colleague for help, Try to read the entire thread carefully",Moderately important,5,4,1-2 hours
+Female,10-20 years,Weekly,4,30-60 minutes,No,No,Rarely,Use a search engine to find relevant information,Moderately important,1,4,More than 10 hours
+Male,2-5 years,Daily,3,15-30 minutes,No,Yes,Never,Ask a colleague for help,Extremely important,1,5,1-2 hours
+Male,0-2 years,Daily,4,30-60 minutes,Yes,Yes,Rarely,"Other, Ask a colleague for help",Extremely important,2,2,0-1 hour
+Male,5-10 years,Weekly,4,30-60 minutes,Yes,Yes,Never,"Other, Use a search engine to find relevant information, Ask a colleague for help",Moderately important,4,4,2-5 hours
+Male,10-20 years,Weekly,1,30-60 minutes,No,No,Rarely,Skim the thread to get a general idea,Moderately important,3,3,2-5 hours
+Female,0-2 years,Monthly,3,30-60 minutes,Yes,No,Never,"Other, Ask a colleague for help, Use a search engine to find relevant information",Extremely important,5,5,2-5 hours
+Male,More than 20 years,Rarely,4,More than 60 minutes,Yes,Yes,"Yes, occasionally","Skim the thread to get a general idea, Use a search engine to find relevant information, Ask a colleague for help",Slightly important,5,4,5-10 hours
+Female,5-10 years,Monthly,5,30-60 minutes,Yes,Yes,"Yes, often","Skim the thread to get a general idea, Use a search engine to find relevant information, Ask a colleague for help",Very important,3,3,0-1 hour
+Male,10-20 years,Rarely,3,5-15 minutes,Yes,No,"Yes, often","Ask a colleague for help, Other",Extremely important,2,4,5-10 hours
+Male,0-2 years,Daily,5,More than 60 minutes,Yes,Yes,"Yes, occasionally",Skim the thread to get a general idea,Very important,4,3,0-1 hour
+Male,5-10 years,Monthly,2,More than 60 minutes,Yes,Yes,Rarely,"Try to read the entire thread carefully, Ask a colleague for help",Extremely important,1,5,5-10 hours
+Male,5-10 years,Daily,2,Less than 5 minutes,Yes,Yes,Never,"Try to read the entire thread carefully, Ask a colleague for help",Very important,4,4,More than 10 hours
+Male,More than 20 years,Monthly,5,30-60 minutes,Yes,No,Rarely,"Try to read the entire thread carefully, Ask a colleague for help",Not important,3,3,2-5 hours
+Female,10-20 years,Never,1,15-30 minutes,Yes,No,"Yes, occasionally","Try to read the entire thread carefully, Skim the thread to get a general idea, Use a search engine to find relevant information",Very important,5,2,1-2 hours
+Male,2-5 years,Monthly,5,15-30 minutes,Yes,Yes,"Yes, occasionally",Use a search engine to find relevant information,Moderately important,5,5,5-10 hours
+Male,0-2 years,Weekly,2,5-15 minutes,Yes,No,"Yes, often","Skim the thread to get a general idea, Try to read the entire thread carefully, Other",Moderately important,5,5,5-10 hours
+Male,5-10 years,Monthly,3,5-15 minutes,Yes,No,"Yes, often","Use a search engine to find relevant information, Skim the thread to get a general idea",Moderately important,2,3,More than 10 hours
+Male,10-20 years,Daily,4,More than 60 minutes,No,No,"Yes, occasionally","Ask a colleague for help, Try to read the entire thread carefully, Other",Not important,1,5,2-5 hours
+Male,2-5 years,Weekly,3,5-15 minutes,Yes,No,Never,"Use a search engine to find relevant information, Ask a colleague for help",Very important,4,3,2-5 hours
+Male,0-2 years,Monthly,5,More than 60 minutes,Yes,Yes,"Yes, occasionally","Skim the thread to get a general idea, Use a search engine to find relevant information, Try to read the entire thread carefully",Moderately important,1,4,1-2 hours
+Female,2-5 years,Weekly,5,Less than 5 minutes,Yes,Yes,"Yes, often",Ask a colleague for help,Very important,2,2,1-2 hours
+Female,0-2 years,Monthly,3,15-30 minutes,Yes,Yes,"Yes, often","Skim the thread to get a general idea, Ask a colleague for help",Slightly important,1,4,5-10 hours
+Female,2-5 years,Monthly,4,More than 60 minutes,No,Yes,Never,Use a search engine to find relevant information,Moderately important,3,2,0-1 hour
+Female,10-20 years,Monthly,5,15-30 minutes,No,Yes,"Yes, occasionally","Skim the thread to get a general idea, Try to read the entire thread carefully, Use a search engine to find relevant information",Slightly important,1,2,5-10 hours
