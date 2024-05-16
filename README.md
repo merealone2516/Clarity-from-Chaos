@@ -8,7 +8,7 @@ Issue threads are essential in software development, encompassing problem descri
 
 
 ### Dataset
-The PI-Link dataset used for the issue threads can be found in from here https://www.kaggle.com/datasets/zakareaalshara/android-closed-issues-20110101-20210101-clean. The generated summaries from each model are available in the 'Dataset' folder.
+The PI-Link dataset used for the issue threads can be found in from here https://www.kaggle.com/datasets/zakareaalshara/android-closed-issues-20110101-20210101-clean. All other data related to this research, including generated summaries, codes, and the questionnaire, are available here.
 
 
 
